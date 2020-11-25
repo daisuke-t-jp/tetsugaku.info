@@ -5,6 +5,11 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
+    ],
+  "redirects": [ {
+      "source" : "/redirect/SocialInsurance/what-is-monthly-reward",
+      "destination" : "https://www.kyoukaikenpo.or.jp/g3/cat320/sb3160/sbb3165/1962-231/",
+      "type" : 301
+    }]
   }
 }
