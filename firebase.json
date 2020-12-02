@@ -6,10 +6,107 @@
       "**/.*",
       "**/node_modules/**"
     ],
-  "redirects": [ {
-      "source" : "/redirect/SocialInsurance/what-is-monthly-reward",
-      "destination" : "https://www.kyoukaikenpo.or.jp/g3/cat320/sb3160/sbb3165/1962-231/",
-      "type" : 301
-    }]
+    "redirects": [
+      {
+        "source": "/redirect/SocialInsurance/what-is-monthly-reward",
+        "destination": "https://www.kyoukaikenpo.or.jp/g3/cat320/sb3160/sbb3165/1962-231/",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/income-saraly",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1400.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/income-miscellaneous",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1500.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/income-temporary",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1490.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-miscellaneous-loss",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1110.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-social-insurance",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1130.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-mutual-aid",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1135.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-life-insurance",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1140.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-earthquake",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1145.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-donation",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1150.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-disabled-person",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1160.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-working-student",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1175.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-dependents",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1180.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-single-person",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1171.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-widow",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1170.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-medical-and-self-medication",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1131.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-medical",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1120.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-self-medication",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1129.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-spouse",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1191.htm",
+        "type": 301
+      },
+      {
+        "source": "/redirect/IncomeTax/deduction-spouse-special",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1195.htm",
+        "type": 301
+      }
+    ]
   }
 }
