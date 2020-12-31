@@ -58,6 +58,11 @@
         "type": 301
       },
       {
+        "source": "/redirect/IncomeTax/deduction-furusato-nozei",
+        "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1155.htm",
+        "type": 301
+      },
+      {
         "source": "/redirect/IncomeTax/deduction-disabled-person",
         "destination": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1160.htm",
         "type": 301
